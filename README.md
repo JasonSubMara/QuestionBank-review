@@ -9,3 +9,7 @@
 ## CSS 部分
 
 - [rem布局是什么，讲述下rem与px的区别](./CSS/01.rem布局.md)
+
+## JS 部分
+
+- [call、bind、apply的区别？怎么实现call\apply的方法](./JS/01.Call-Bind-Apply.md)
