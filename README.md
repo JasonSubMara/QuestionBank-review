@@ -16,3 +16,4 @@
 ## JS 部分
 
 - [call、bind、apply的区别？怎么实现call\apply的方法](./JS/01.Call-Bind-Apply.md)
+- [手写数组去重](./JS/02.数组去重.md)
